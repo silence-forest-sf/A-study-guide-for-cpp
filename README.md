@@ -19,7 +19,7 @@ description: >-
   * 1.2 从C++代码到二进制程序
   * 1.3  从汇编的视角理解程序运行
 * 第二部分：常见的报错汇总
-* 第三部分：一些具有挑战性的题目
+* 第三部分：附录
 
 ### 许可证（License） <a href="#e8-ae-b8-e5-8f-af-e8-af-81-ef-bc-88license-ef-bc-89" id="e8-ae-b8-e5-8f-af-e8-af-81-ef-bc-88license-ef-bc-89"></a>
 
