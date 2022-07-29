@@ -10,7 +10,7 @@
 
 ## 常见报错汇总
 
-* [Page 1](chang-jian-bao-cuo-hui-zong/page-1.md)
+* [一些问题](chang-jian-bao-cuo-hui-zong/page-1.md)
 
 ## 一些具有挑战性的题目
 
