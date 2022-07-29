@@ -20,3 +20,7 @@ description: >-
   * 1.3  从汇编的视角理解程序运行
 * 第二部分：常见的报错汇总
 * 第三部分：一些具有挑战性的题目
+
+### 许可证（License） <a href="#e8-ae-b8-e5-8f-af-e8-af-81-ef-bc-88license-ef-bc-89" id="e8-ae-b8-e5-8f-af-e8-af-81-ef-bc-88license-ef-bc-89"></a>
+
+本指导书使用 [GNU GPL V3.0](http://www.gnu.org/copyleft/gpl.html) 许可证，在 GNU GPL V3.0 之上，转载和引用须注明本项目 Github 地址。
