@@ -8,11 +8,11 @@
 * [1.2 从C++代码到二进制程序](useful-cs-knowledge/1.2-cong-c++-dai-ma-dao-er-jin-zhi-cheng-xu.md)
 * [1.3 从汇编的视角理解程序运行](useful-cs-knowledge/1.3-cong-hui-bian-de-shi-jiao-li-jie-cheng-xu-yun-hang.md)
 
-## 常见报错汇总 <a href="#compiling-building-errors-QA" id="compiling-building-errors-QA"></a>
+## 常见报错汇总 <a href="#compiling-building-errors-qa" id="compiling-building-errors-qa"></a>
 
 * [一些问题](compiling-building-errors-QA/yi-xie-wen-ti.md)
 
-## 一些具有挑战性的题目 <a href="#challenging-exercise" id="challenging-exercise"></a>
+## 附录 <a href="#appendix" id="appendix"></a>
 
-* [Page 2](challenging-exercise/page-2.md)
-
+* [挑战性题目](appendix/challenging-exercise.md)
+* [书籍推荐](appendix/book-recommendations.md)
