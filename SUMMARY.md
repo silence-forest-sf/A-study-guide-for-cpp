@@ -14,5 +14,5 @@
 
 ## 附录 <a href="#appendix" id="appendix"></a>
 
-* [挑战性题目](appendix/challenging-exercise.md)
+* [挑战性题目](challenging-exercise/page-2.md)
 * [书籍推荐](appendix/book-recommendations.md)
