@@ -28,3 +28,8 @@ C++的STL都是定义在std命名空间中的， using namespace语句的作用�
 
 （ by 倪士平）
 
+## Q:"mingw-w64-crt/crt/crt0\_c.c:18: undefined reference to 'WinMain' "
+
+检查一下你的main打对了没有。
+
+（by 倪士平）
