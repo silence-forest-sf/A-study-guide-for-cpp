@@ -10,7 +10,10 @@
 
 ## 常见报错汇总 <a href="#compiling-building-errors-qa" id="compiling-building-errors-qa"></a>
 
-* [一些问题](compiling-building-errors-QA/yi-xie-wen-ti.md)
+* [写在前面](compiling-building-errors-QA/yi-xie-wen-ti.md)
+* [输入输出相关](compiling-building-errors-qa/shu-ru-shu-chu-xiang-guan.md)
+* [函数相关](compiling-building-errors-qa/han-shu-xiang-guan.md)
+* [其他](compiling-building-errors-qa/qi-ta.md)
 
 ## 附录 <a href="#appendix" id="appendix"></a>
 
