@@ -19,3 +19,6 @@
 
 1. 总结解决方法，予以反馈
 
+更多提问相关技巧见：[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh\_CN.md)
+
+(倪士平 刘舒畅)
