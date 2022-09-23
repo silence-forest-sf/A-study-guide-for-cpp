@@ -58,7 +58,13 @@ int main()
 
 （ by 倪士平）
 
-## Q：
+## Q：VScode输出汉字出现乱码
+
+造成该问题的本质在于，vscode默认使用的是UTF-8,而Windows系统默认的编码则是GBK（也是cmd所使用的代码页），两者在字符的二进制指示上有很大区别，在运行过程中才会出现乱码。关于编码相关知识见1[.1节编码部分](../useful-cs-knowledge/1.1-xin-xi-zai-ji-suan-ji-zhong-de-biao-shi.md#bian-ma)
+
+修改VScode的方法见[博客](https://blog.csdn.net/weixin\_46595440/article/details/125267724)
+
+（by 倪士平 陈欣宇）
 
 ## Q：cout>>"hello">>"word"的输出为什么没有空格
 
