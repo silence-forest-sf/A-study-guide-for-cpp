@@ -12,6 +12,7 @@
 ## 常见报错汇总 <a href="#compiling-building-errors-qa" id="compiling-building-errors-qa"></a>
 
 * [写在前面](compiling-building-errors-QA/yi-xie-wen-ti.md)
+* [Visual Studio工程建立阶段的常见错误](compiling-building-errors-qa/visual-studio-gong-cheng-jian-li-jie-duan-de-chang-jian-cuo-wu.md)
 * [输入输出及运算相关](compiling-building-errors-qa/shu-ru-shu-chu-xiang-guan.md)
 * [函数相关](compiling-building-errors-qa/han-shu-xiang-guan.md)
 * [编译相关](compiling-building-errors-qa/qi-ta.md)
