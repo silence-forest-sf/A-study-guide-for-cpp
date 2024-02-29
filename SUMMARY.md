@@ -9,6 +9,10 @@
 * [1.3 从汇编的视角理解程序运行](useful-cs-knowledge/1.3-cong-hui-bian-de-shi-jiao-li-jie-cheng-xu-yun-hang.md)
 * [1.4 程序装载与内存空间简介](useful-cs-knowledge/1.4-cheng-xu-zhuang-zai-yu-nei-cun-kong-jian-jian-jie.md)
 
+## CPP部分课程限定与解释补充 <a href="scope-of-the-lecture" id="scope-of-the-lecture"></a>
+
+* [CPP部分课程限定与解释补充](scope-of-the-lecture/clarification-on-scope.md)
+
 ## 常见报错汇总 <a href="#compiling-building-errors-qa" id="compiling-building-errors-qa"></a>
 
 * [写在前面](compiling-building-errors-qa/yi-xie-wen-ti.md)
